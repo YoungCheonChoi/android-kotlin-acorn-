@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="Hello.app" target="1.8" />
+      <module name="Hello.hellokotlinapp" target="1.8" />
       <module name="Hello.mygame" target="1.8" />
       <module name="Hello.step01activity" target="1.8" />
       <module name="Hello.step02layout" target="1.8" />
